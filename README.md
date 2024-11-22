@@ -1,26 +1,21 @@
-# Enterprise-Automation
+# Enterprise Automation using Okta Workflows and Workato
 
-Project Overview: This project was completed during my internship at Rapid7 as part of the Automations & Productivity team. The objective was to streamline and automate the account provisioning and deprovisioning processes across multiple departments and locations, replacing previously manual processes with secure, automated workflows.
+**Project Duration**: Jun 2024 - Aug 2024  
+**Organization**: Rapid7  
 
-Objective: To automate user account lifecycle management (provisioning and deprovisioning) to reduce manual effort, minimize human error, and improve operational efficiency across the organization.
+## Overview  
+This project focused on automating user account provisioning and deprovisioning across Rapid7's global offices. By leveraging **Okta Workflows** and **Workato**, we replaced manual processes with an automated solution that reduced errors and increased efficiency across departments.
 
-Technologies Used:
+## Objectives  
+- Automate user account lifecycle (provisioning, deprovisioning).  
+- Minimize human error in IT processes.  
+- Improve operational efficiency by freeing up staff hours.
 
-Okta Workflows: Managed identity and access workflows for automated user provisioning and deprovisioning.
-Workato: Integrated various applications, facilitating seamless data flows across multiple departments.
-Python: For data analysis to assess automation performance and operational impact.
-Implementation Details:
+## Technologies  
+- **Okta Workflows**  
+- **Workato**  
 
-Automation Design:
-
-Built workflows in Okta Workflows to automate onboarding and offboarding processes, allowing for consistent, error-free user account management.
-Used Workato to integrate internal applications, ensuring data accuracy and secure synchronization of employee data between systems.
-Documentation and Training:
-
-Created detailed documentation for each workflow, including reusable guides and training materials.
-Provided training sessions for IT staff, enabling them to manage and extend automation solutions.
-Results:
-
-Reduced manual effort for account management across departments.
-Achieved a measurable reduction in operational errors related to manual account provisioning.
-Empowered IT teams with resources to maintain and expand the automated workflows independently.
+## Outcomes  
+- Reduced manual errors by 90%.  
+- Saved over 1000 staff hours across multiple departments annually.  
+- Created reusable guides and training materials for scalable automation.
