@@ -17,5 +17,5 @@ This project focused on automating user account provisioning and deprovisioning 
 
 ## Outcomes  
 - Reduced manual errors by 90%.  
-- Saved over 1000 staff hours across multiple departments annually.  
+- Saved +1000 staff hours across multiple departments annually.  
 - Created reusable guides and training materials for scalable automation.
